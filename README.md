@@ -1,6 +1,9 @@
 ## TravelGo:
 
-TravelGo is a Travel-Agent Website created with an inspirational design over Figma. Come visit our website to explore equisite bounty of nature by visiting with us.
+TravelGo is a Travel-Agent Website. Come visit our website to explore equisite bounty of nature by visiting with us.
+
+## Demo:
+You can view a live demo of the TravelGo is [here](https://travel-go-1-2-3-4.netlify.app/).
 
 ### Tech Stack:
 
